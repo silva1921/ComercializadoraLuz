@@ -1,0 +1,30 @@
+.container{
+    /* background-color: red; */
+    margin-left: auto;
+    padding: auto;
+}
+
+/* {
+    color: blue;
+} */
+
+.btn-group{
+margin: 5px;
+}
+
+/* .btn{
+background-color: red;
+border: none;
+border-radius: 15px;
+height: 40px;
+width: 100;
+} */
+
+.titulos{
+    color: black;
+    text-align: center;
+    background-color: tomato;
+    font-size: 18px;
+}
+
+.modal .modal-dialog { width: 80%; }
