@@ -25,6 +25,11 @@ width: 100;
     text-align: center;
     background-color: tomato;
     font-size: 18px;
+   
 }
 
-.modal .modal-dialog { width: 80%; }
+.titulos th{
+    border-radius: 10px 10px  0 0  ;
+}
+
+
